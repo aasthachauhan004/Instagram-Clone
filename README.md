@@ -2,8 +2,9 @@
 
 ## Tech Stack
 
-1. React
-2. Node
-3. Chakra UI
-4. Javascript
-5. Firebase
+1.HTML
+2.Javascript
+3. React
+4. Node
+5. Chakra UI
+6. Firebase
